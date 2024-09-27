@@ -15,7 +15,8 @@ Project Tasks:
 --> Analysing the peak performing hours, days, months, store locations, product categories and product types.<br>
 --> Checking the total footfall of the overall business as well as of individual store locations.<br>
 --> Analysing the total quantity ordered/consumed based on different hours in various months and days.<br>
---> Developing Interactive Dashboard with compelling reports, figures and visualization using Power PivotTables tables, Measures and using DAX functions to create KPIs.
+--> Using Power PivotTables tables, Measures and DAX functions to create various elements of the Dashboard.<br>
+--> Developing Interactive Dashboard with compelling reports, KPIs, figures and attractive visualization.
 
 Key Findings and Conclusions:
 
