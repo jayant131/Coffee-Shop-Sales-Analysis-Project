@@ -20,7 +20,7 @@ The broad objective and purpose of performing this project is to analyse the gro
 -> Using Power PivotTables tables, Measures and DAX functions to create various elements of the Dashboard.<br>
 -> Developing Interactive Dashboard with compelling reports, KPIs, figures and attractive visualization.
 
-Key Findings and Conclusions:
+<u>Key Findings and Conclusions:</u>
 
 1. Most of the transactions occur between 8:00 am and 10:00 am with maximum transactions occurring at around 10:00 am clearly depicting a morning rush hour of customers.
 2. Highest quantity of orders are also placed between 8:00 am and 10:00 am with maximum order quantity occurring at 10:00 am.
