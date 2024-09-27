@@ -20,9 +20,17 @@ Project Tasks:
 
 Key Findings and Conclusions:
 
-Most of the transactions occur between 8:00 am and 10:00 am with maximum transactions occuring at 10:00 am clearly depicting a morning rush hour of customers.
-Monday, Thursday, and Friday have been noted as high transaction days, reflecting greater customer engagement on these days.
-Lower Manhattan shows fewer sales than other stores.
-Conclusion:
+1. Most of the transactions occur between 8:00 am and 10:00 am with maximum transactions occurring at around 10:00 am clearly depicting a morning rush hour of customers.
+2. Highest quantity of orders are also placed between 8:00 am and 10:00 am with maximum order quantity occurring at 10:00 am.
+3. Lowest transactions as well as lowest quantity of orders placed occur between 7:00 pm to 8:00 pm.
+4. Coffee is highest performing product category with total 39% of product share/revenue followed by Tea with 28% product share/revenue.
+5. Barista Espresso is highest performing product type with total revenue of $91,406 followed by Brewed Chai Tea with total revenue of $77,082.
+6. Regular is most selling Portion Size (31%) among different Sizes followed by Large (30%) and Small is the least preferred portion size (9%).
+7. Monday, Thursday, and Friday have high transaction volumes approx. equal to 21.7K, depicting a greater customer visits and engagement on these days.
+8. While Saturday has the least transaction volumes among all the days despite being a weekend followed by Sunday which has the 2nd lowest transaction volumes.
+9. Thus, analysing the transaction data on various days concludes that there is more volume of customers on Weekdays compared to Weekends (i.e. Saturday and Sunday).
+10. Lower Manhattan shows the lowest sales and footfall than other stores while Hell's Kitchen comes at the top with highest sales and footfall.
 
-Through meticulous data analysis and visualization using an Excel dashboard, this project reveals key insights for optimizing your coffee shop's operations. Peak transaction times, high-performing days, and areas for improvement in Lower Manhattan are identified. By leveraging these findings, you can enhance customer experiences, refine inventory management, and boost overall sales efficiency for a thriving coffee shop venture.
+Final Conclusion from the Analysis:
+
+So, by performing the thorough data analysis and visualization using an Excel Interactive Dashboard in this project, we have been able to analyse the key insights for optimizing the business operations and processes of the coffee shop and its stores/outlets. Peak transaction times and rush hours, highest quantity of items consumed, best performing product categories and their types, preferred portion sizes, strong and weak performing days as well as room for improvement in the Lower Manhattan Store and low sale volume on weekends are some of the key points that have been identified. Therefore, by using these key metrics/KPIs and findings/statistics, the key stakeholders and business owners can enhance their business operations with enriching customer experiences while at the same time amplifying their overall sales by establishing a cost-effective method and optimizing the inventory management for a thriving coffee shop business.
