@@ -8,7 +8,7 @@ The goal of analysing the Transaction data within this project is to get importa
 
 The broad objective and purpose of performing this project is to analyse the growth of business in terms of revenue generation, analysing the number of customers or user-base coming to the shop, optimizing inventory management according to the best and worst selling products, prioritizing the working hours, days, months according to the peak sale times while at the same time improving/optimizing the business operations during the odd working hours, days, months when it doesn't attract much sales/customers, to improve the decision making processes by analysing the consumer purchasing patterns and 'Understanding the Buying Mind'.
 
-<isn>Project Tasks:</isn>
+_Project Tasks:_
 
 -> Data Collection, Cleaning of Data, Preparing and Organizing Data using Power Query Editor.<br>
 -> Understanding the different variables in the dataset and generating new variables from them required for analysis.<br>
@@ -20,7 +20,7 @@ The broad objective and purpose of performing this project is to analyse the gro
 -> Using Power PivotTables tables, Measures and DAX functions to create various elements of the Dashboard.<br>
 -> Developing Interactive Dashboard with compelling reports, KPIs, figures and attractive visualization.
 
-<u>Key Findings and Conclusions:</u>
+_Key Findings and Conclusions:_
 
 1. Most of the transactions occur between 8:00 am and 10:00 am with maximum transactions occurring at around 10:00 am clearly depicting a morning rush hour of customers.
 2. Highest quantity of orders are also placed between 8:00 am and 10:00 am with maximum order quantity occurring at 10:00 am.
@@ -33,7 +33,7 @@ The broad objective and purpose of performing this project is to analyse the gro
 9. Thus, analysing the transaction data on various days concludes that there is more volume of customers on Weekdays compared to Weekends (i.e. Saturday and Sunday).
 10. Lower Manhattan shows the lowest sales and footfall than other stores while Hell's Kitchen comes at the top with highest sales and footfall.
 
-Final Conclusion from the Analysis:
+_Final Conclusion from the Analysis:_
 
 So, by performing the thorough data analysis and visualization using an Excel Interactive Dashboard in this project, we have been able to analyse the key insights for optimizing the business operations and processes of the coffee shop and its stores/outlets. Peak transaction times and rush hours, highest quantity of items consumed, best performing product categories and their types, preferred portion sizes, strong and weak performing days as well as room for improvement in the Lower Manhattan Store and low sale volume on weekends are some of the key points that have been identified.
 
