@@ -2,7 +2,7 @@
 
 ## $${\color{lightgreen}Project \space Introduction:}$$ 
 
-This project improves the coffee shop's analytical capabilities by utilizing an Excel dashboard for sales information. The goal of analyzing transaction data is to get important insights regarding customer behavior, product popularity, sales patterns, and operational efficiencies. The purpose is to optimize inventory management, improve decision-making processes, and find possible cross-selling opportunities.
+This project improves the coffee shop's analytical capabilities by utilizing an Excel dashboard for sales information. The goal of analyzing transaction data is to get important insights regarding customer behavior, product popularity, sales patterns, and operational efficiencies. The purpose of this performing this analysis and project is to optimize inventory management, improve decision-making processes, and to figure out the areas which need improvements in terms of revenue generation and frequency of distribution of various products. 
 
 Project Task:
 
