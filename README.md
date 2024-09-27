@@ -6,7 +6,7 @@ This project provides the sales insights along with different KPIs reflecting th
 
 The broad objective and purpose of performing this project is to analyse the growth of business in terms of revenue generation, analysing the number of customers or user-base coming to the shop, optimizing inventory management according to the best and worst selling products, prioritizing the working hours, days, months according to the peak sale times while at the same time improving/optimizing the business operations during the odd working hours, days, months when it doesn't attract much sales/customers, to improve the decision making processes by analysing the consumer purchasing patterns and 'Understanding the Buying Mind'.
 
-Project Task:
+Project Tasks:
 
 --> Data Collection, Cleaning of Data, Preparing and Organizing Data using Power Query Editor.<br>
 --> Understanding the different variables in the dataset and generating new variables from them required for analysis.<br>
@@ -15,7 +15,7 @@ Project Task:
 --> Analysing the peak performing hours, days, months, store locations, product categories and product types.<br>
 --> Checking the total footfall of the overall business as well as of individual store locations.<br>
 --> Analysing the total quantity ordered/consumed based on different hours in various months and days.<br>
---> Developing Interactive Dashboard with compelling reports, figures and attractive visualization using Power PivotTables tables, Measures and using DAX functions to create KPIs.<br>
+--> Developing Interactive Dashboard with compelling reports, figures and visualization using Power PivotTables tables, Measures and using DAX functions to create KPIs.<br>
 
 Key Findings and Conclusions:
 
