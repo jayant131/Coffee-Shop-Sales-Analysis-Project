@@ -8,19 +8,19 @@ The broad objective and purpose of performing this project is to analyse the gro
 
 Project Tasks:
 
---> Data Collection, Cleaning of Data, Preparing and Organizing Data using Power Query Editor.<br>
---> Understanding the different variables in the dataset and generating new variables from them required for analysis.<br>
---> Analysis of monthly, daily, and hourly sales patterns with Power PivotTables.<br>
---> Analysing distribution of different product categories and product types.<br>
---> Analysing the peak performing hours, days, months, store locations, product categories and product types.<br>
---> Checking the total footfall of the overall business as well as of individual store locations.<br>
---> Analysing the total quantity ordered/consumed based on different hours in various months and days.<br>
---> Using Power PivotTables tables, Measures and DAX functions to create various elements of the Dashboard.<br>
---> Developing Interactive Dashboard with compelling reports, KPIs, figures and attractive visualization.
+-> Data Collection, Cleaning of Data, Preparing and Organizing Data using Power Query Editor.<br>
+-> Understanding the different variables in the dataset and generating new variables from them required for analysis.<br>
+-> Analysis of monthly, daily, and hourly sales patterns with Power PivotTables.<br>
+-> Analysing distribution of different product categories and product types.<br>
+-> Analysing the peak performing hours, days, months, store locations, product categories and product types.<br>
+-> Checking the total footfall of the overall business as well as of individual store locations.<br>
+-> Analysing the total quantity ordered/consumed based on different hours in various months and days.<br>
+-> Using Power PivotTables tables, Measures and DAX functions to create various elements of the Dashboard.<br>
+-> Developing Interactive Dashboard with compelling reports, KPIs, figures and attractive visualization.
 
 Key Findings and Conclusions:
 
-Most transactions occur between 8:00 a.m. and 10:00 a.m., showing a morning sales peak.
+Most of the transactions occur between 8:00 am and 10:00 am with maximum transactions occuring at 10:00 am clearly depicting a morning rush hour of customers.
 Monday, Thursday, and Friday have been noted as high transaction days, reflecting greater customer engagement on these days.
 Lower Manhattan shows fewer sales than other stores.
 Conclusion:
