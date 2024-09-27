@@ -9,6 +9,7 @@ The broad objective and purpose of performing this project is to analyse the gro
 Project Task:
 
 --> Data Collection, Cleaning of Data, Preparing and Organizing Data using Power Query Editor.
+
 --> Understanding the different variables in the dataset and generating new variables from them required for analysis.
 --> Analysis of monthly, daily, and hourly sales patterns with Power PivotTables.
 --> Analysing distribution of different product categories and product types.
