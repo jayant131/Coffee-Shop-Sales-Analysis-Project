@@ -9,13 +9,13 @@ The broad objective and purpose of performing this project is to analyse the gro
 Project Task:
 
 --> Data Collection, Cleaning of Data, Preparing and Organizing Data using Power Query Editor.<br>
---> Understanding the different variables in the dataset and generating new variables from them required for analysis.
---> Analysis of monthly, daily, and hourly sales patterns with Power PivotTables.
---> Analysing distribution of different product categories and product types.
---> Analysing the peak performing hours, days, months, store locations, product categories and product types.
---> Checking the total footfall of the overall business as well as of individual store locations.
---> Analysing the total quantity ordered/consumed based on different hours in various months and days.
---> Developing Interactive Dashboard with compelling reports, figures and attractive visualization using Power PivotTables tables, Measures and using DAX functions to create KPIs.
+--> Understanding the different variables in the dataset and generating new variables from them required for analysis.<br>
+--> Analysis of monthly, daily, and hourly sales patterns with Power PivotTables.<br>
+--> Analysing distribution of different product categories and product types.<br>
+--> Analysing the peak performing hours, days, months, store locations, product categories and product types.<br>
+--> Checking the total footfall of the overall business as well as of individual store locations.<br>
+--> Analysing the total quantity ordered/consumed based on different hours in various months and days.<br>
+--> Developing Interactive Dashboard with compelling reports, figures and attractive visualization using Power PivotTables tables, Measures and using DAX functions to create KPIs.<br>
 
 Key Findings and Conclusions:
 
