@@ -2,7 +2,7 @@
 
 ## $${\color{lightgreen}Project \space Introduction:}$$ 
 
-This project provides the sales insights along with different KPIs reflecting the business growth, details about the strong and weak performing areas by utilizing an "Excel Dashboard" for sales information. The Dashboard provides analytical summary numbers, charts, metrics and information about the KPIs showcasing the performance/trajectory of current business operations as well as provides insightful data in order to improve the overall business processes and model of the coffee shop.
+The main objective of this project is to analyse retail sales data to gain actionable insights along with different KPIs reflecting the business growth, details about the strong and weak performing areas by utilizing an "Excel Dashboard" for enhancing the performance of the Coffee Shop. The Dashboard provides analytical summary numbers, charts, metrics and information about the KPIs showcasing the performance/trajectory of current business operations as well as provides insightful data in order to improve the overall business processes and model of the coffee shop.
 
 The goal of analysing the Transaction data within this project is to get important insights regarding revenue generation from sales, customer behaviour, monthly growth of business, sales growth about different categories, product popularity, quantity sold on monthly/weekday basis, sales patterns, operational efficiencies of various retail stores and their revenue generation.
 
