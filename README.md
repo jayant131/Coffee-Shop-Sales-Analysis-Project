@@ -26,12 +26,14 @@ The broad objective and purpose of performing this project is to analyse the gro
 2. Highest quantity of orders are also placed between 8:00 am and 10:00 am with maximum order quantity occurring at 10:00 am.
 3. Lowest transactions as well as lowest quantity of orders placed occur between 7:00 pm to 8:00 pm.
 4. Coffee is highest performing product category with total 39% of product share/revenue followed by Tea with 28% product share/revenue.
-5. Barista Espresso is highest performing product type with total revenue of $91,406 followed by Brewed Chai Tea with total revenue of $77,082.
-6. Regular is most selling Portion Size (31%) among different Sizes followed by Large (30%) and Small is the least preferred portion size (9%).
-7. Monday, Thursday, and Friday have high transaction volumes approx. equal to 21.7K, depicting a greater customer visits and engagement on these days.
-8. While Saturday has the least transaction volumes among all the days despite being a weekend followed by Sunday which has the 2nd lowest transaction volumes.
-9. Thus, analysing the transaction data on various days concludes that there is more volume of customers on Weekdays compared to Weekends (i.e. Saturday and Sunday).
-10. Lower Manhattan shows the lowest sales and footfall than other stores while Hell's Kitchen comes at the top with highest sales and footfall.
+5. Barista Espresso is highest selling/performing product type with total revenue of $91,406 followed by Brewed Chai Tea with total revenue of $77,082.
+6. Brewed Chai Tea is best-selling product in terms of quantity ordered followed by Gourmet Brewed Coffee.
+7. Regular is most selling Portion Size (31%) among different Sizes followed by Large (30%) and Small is the least preferred portion size (9%).
+8. Monday, Thursday, and Friday have high transaction volumes approx. equal to 21.7K, depicting a greater customer visits and engagement on these days.
+9. While Saturday has the least transaction volumes among all the days despite being a weekend followed by Sunday which has the 2nd lowest transaction volumes.
+10. Thus, analysing the transaction data on various days concludes that there is more volume of customers on Weekdays compared to Weekends (i.e. Saturday and Sunday).
+11. Lower Manhattan shows the lowest sales and footfall than other stores while Hell's Kitchen comes at the top with highest sales and footfall.
+12. Average bill/Person is $4.69 whereas Average Order/Person is 1.4.
 
 ### _**Final Conclusion from the Analysis:**_
 
